@@ -33,4 +33,4 @@ This task provided hands-on experience with packet capturing, filtering, and ana
 ## 📂 Files Included
 - `networkcapture.pcapng` – Captured network traffic.
 - `Wireshark_Analysis_Report.pdf` – Summary report of identified protocols.
-- Screenshot (89)
+- `Screenshot (89).png`
